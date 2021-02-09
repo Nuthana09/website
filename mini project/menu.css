@@ -1,0 +1,8 @@
+body{
+    background-image: url('./images/pexels-ella-olsson-1640777.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

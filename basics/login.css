@@ -1,0 +1,25 @@
+body{
+     background-color:orangered;
+}
+.container{
+     background-color:aqua;
+     margin:100px 300px 200px 300px;
+     padding:50px 50px 50px 50px;
+     display:flex;
+}
+.rgt{
+     text-align:right;
+     padding:100px 100px 100px 100px;
+}
+form{
+     float:right;
+}
+#btn{
+     background-color:orangered;
+     color:white;
+     border:0px none;
+     padding:5px 30px 5px 30px;
+}
+.leftcontainer{
+     padding:100px 20px 100px 20px;
+}

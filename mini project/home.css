@@ -1,0 +1,10 @@
+body{
+    background-image:url('./images/22.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+h2{
+    color:darkred;
+}
